@@ -12,3 +12,11 @@ You can ignore this text
 *This should be italic text*
 
 **This should be in bold.**
+
+---
+
+This is some text under the rule. 
+
+And here is a link to some cool content 
+
+[Hammer Horror Films](https://en.wikipedia.org/wiki/Hammer_filmography)
