@@ -8,3 +8,5 @@ This is a change to the boring file
 
 ### And a further subheading
 You can ignore this text
+
+*This should be italic text*
