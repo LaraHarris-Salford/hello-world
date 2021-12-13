@@ -10,4 +10,5 @@ This is a change to the boring file
 You can ignore this text
 
 *This should be italic text*
+
 **This should be in bold.**
