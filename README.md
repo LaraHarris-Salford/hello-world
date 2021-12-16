@@ -20,3 +20,5 @@ This is some text under the rule.
 And here is a link to some cool content 
 
 [Hammer Horror Films](https://en.wikipedia.org/wiki/Hammer_filmography)
+
+![Hammer Horror art collage](https://grizzlybomb.files.wordpress.com/2019/10/hammer-horror-13-favorite-films-gb-feature-img-700x400.jpg)
